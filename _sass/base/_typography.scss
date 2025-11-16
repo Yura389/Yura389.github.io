@@ -148,12 +148,16 @@ sup {
 main {
   line-height: 1.75;
 
-  h1 {
+  h1{
     margin-top: 2rem;
 
     @include bp.lg {
       margin-top: 3rem;
     }
+  }
+
+  h1, h2, h3 {
+    color: #1E90FF;
   }
 
   p {

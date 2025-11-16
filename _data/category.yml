@@ -1,0 +1,47 @@
+Frontend:
+  icon: "fa-solid fa-laptop-code"
+  color: "#1E90FF"
+
+JavaScript:
+  icon: "fa-brands fa-js"
+  color: "#F7DF1E"
+
+TypeScript:
+  icon: "fa-solid fa-code"
+  color: "#3178C6"
+
+React:
+  icon: "fa-brands fa-react"
+  color: "#61DAFB"
+
+CSS:
+  icon: "fa-solid fa-palette"
+  color: "#FF69B4"
+
+HTML:
+  icon: "fa-brands fa-html5"
+  color: "#E44D26"
+
+Algorithm:
+  icon: "fa-solid fa-brain"
+  color: "#9B59B6"
+
+Project:
+  icon: "fa-solid fa-folder-open"
+  color: "#2ECC71"
+
+Git:
+  icon: "fa-brands fa-git-alt"
+  color: "#F1502F"
+
+CS:
+  icon: "fa-solid fa-microchip"
+  color: "#34495E"
+
+Debug:
+  icon: "fa-solid fa-bug"
+  color: "#C0392B"
+
+Study:
+  icon: "fa-solid fa-book-open"
+  color: "#2ECC71"
